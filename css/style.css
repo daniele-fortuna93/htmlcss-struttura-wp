@@ -4,3 +4,14 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.container{
+  width: 90%;
+  margin: auto;
+  padding: 10px;
+}
+/* intestazione */
+header{
+  height: 150px;
+  background-color: pink;
+}
