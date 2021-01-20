@@ -33,20 +33,21 @@ header{
 }
 .title{
   height: 50px;
+}
+.column, .title{
   background-color: lightblue;
 }
 .row{
   padding: 1% 0;
 }
-.column_left, .column_right{
+.column{
   float: left;
+}
+.column_left, .column_right{
   width: 24%;
-  background-color: lightblue;
 }
 .column_middle{
-  float: left;
   width: 50%;
-  background-color: lightblue;
   margin: 0 1%;
 }
 /* footer */
